@@ -13,7 +13,7 @@ The application has 4 screens:
 
 ## 🛠️ Open and run the project
 
-Execute 'php spark serve' e acesse `http://localhost:8080/`.
+Execute 'php spark serve' and click `http://localhost:8080/`.
 
 ## 🔨 Technologies used
 
