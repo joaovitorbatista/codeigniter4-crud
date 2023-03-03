@@ -28,7 +28,6 @@ header {
 
 /***/
 
-
 .page-content {
     color: #505050;
 }
@@ -103,8 +102,6 @@ input::placeholder {
     color: red;
 }
 
-
-
 .list-table {
     height: auto;
     display: table;
@@ -157,7 +154,6 @@ input::placeholder {
     border-color: #a38cc6;
 }
 
-
 .tx-edit {
     color: #1dc9b7;
 }
@@ -171,7 +167,6 @@ input::placeholder {
 }
 
 /*********/
-
 
 .fw-700 {
     font-weight: 700 !important;
@@ -192,7 +187,6 @@ input::placeholder {
 .text-muted {
     color: #868e96 !important;
 }
-
 
 .text-white {
     color: #fff!important;
