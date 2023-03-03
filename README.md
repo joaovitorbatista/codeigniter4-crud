@@ -17,9 +17,9 @@ Execute 'php spark serve' e acesse `http://localhost:8080/`.
 
 ## 🔨 Technologies used
 
--`Codeigniter`
--`bootstrap 4`
--`Font Awesome`
+- `Codeigniter`
+- `bootstrap 4`
+- `Font Awesome`
 
 ## 📚 Additional help
 
