@@ -4,7 +4,7 @@ Create, Read, Update and Delete
 
 ## 🔨 Project features
 
-The app was developed using HTML, PHP, CSS, JS
+The app was developed using PHP, CSS, JS
 The application has 4 screens:
 - Home screen with data users
 - Registration User
