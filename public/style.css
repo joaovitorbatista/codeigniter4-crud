@@ -99,7 +99,7 @@ input::placeholder {
     display: block;
     padding-top: 5px;
     font-size: 14px;
-    color: red;
+    color: #fd53c9;
 }
 
 .list-table {
@@ -168,28 +168,12 @@ input::placeholder {
 
 /*********/
 
-.fw-700 {
-    font-weight: 700 !important;
-}
-
-.fw-500 {
-    font-weight: 500 !important;
-}
-
 .text-primary {
     color: #886ab5 !important;
 }
 
 .text-secondary {
     color: #868e96 !important;
-}
-
-.text-muted {
-    color: #868e96 !important;
-}
-
-.text-white {
-    color: #fff!important;
 }
 
 .l-h-n {

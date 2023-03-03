@@ -90,6 +90,18 @@
                 username: {
                     required: true,
                 },
+                password: {
+                    required: true,
+                },
+                firstname: {
+                    required: true,
+                },
+                lastname: {
+                    required: true,
+                },
+                mobile: {
+                    required: true,
+                },
                 email: {
                     required: true,
                     maxlength: 60,
@@ -98,7 +110,19 @@
             },
             messages: {
                 username: {
-                    required: "Name is required.",
+                    required: "Username is required.",
+                },
+                password: {
+                    required: "Password is required.",
+                },
+                firstname: {
+                    required: "Firstame is required.",
+                },
+                lastname: {
+                    required: "Lastname is required.",
+                },
+                mobile: {
+                    required: "Your phone is required.",
                 },
                 email: {
                     required: "Email is required.",
