@@ -122,7 +122,7 @@
                     required: "Lastname is required.",
                 },
                 mobile: {
-                    required: "Your phone is required.",
+                    required: "Your mobile is required.",
                 },
                 email: {
                     required: "Email is required.",
