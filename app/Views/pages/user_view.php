@@ -16,7 +16,7 @@
                     <th width="20%">Lastname</th>
                     <th width="20%">Email</th>
                     <th width="20%">Mobile</th>
-                    <th width="15%">Ações</th>
+                    <th width="15%">Action</th>
                 </tr>
             </thead>
             <tbody>
